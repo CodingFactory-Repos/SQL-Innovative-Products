@@ -7,8 +7,8 @@ User : 253973_jaffal <br>
 Password : jaffal123
 
 ## Exercice
-### Part A
-#### Step 1
+### [Part A](https://github.com/CodingFactory-Repos/SQL-Innovative-Products/tree/main/PartA)
+#### [Step 1](https://github.com/CodingFactory-Repos/SQL-Innovative-Products/tree/main/PartA/Step1)
 ##### Table Chercheur
 ```sql
 create table Chercheur(
@@ -65,7 +65,7 @@ create table Proprietaire(
 );
 ```
 
-#### Step 2
+#### [Step 2](https://github.com/CodingFactory-Repos/SQL-Innovative-Products/tree/main/PartA/Step2)
 ##### Table Chercheur
 ```sql
 insert into Chercheur (NSS, Nom, dateNaiss, nationalite) VALUES (394662471,'Gaspar','2003/10/28','Portugaise');
