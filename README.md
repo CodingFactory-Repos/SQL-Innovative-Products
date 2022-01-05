@@ -73,3 +73,7 @@ insert into Chercheur (NSS, Nom, dateNaiss, nationalite) VALUES (602098422,'Lefe
 insert into Chercheur (NSS, Nom, dateNaiss, nationalite) VALUES (367814774,'Dumoulin','2003/6/7','Française');
 insert into Chercheur (NSS, Nom, dateNaiss, nationalite) VALUES (941042869,'Petiot','2003/9/15','Française');
 ```
+
+### [Part B](https://github.com/CodingFactory-Repos/SQL-Innovative-Products/tree/main/PartB)
+#### [Step 1](https://github.com/CodingFactory-Repos/SQL-Innovative-Products/tree/main/PartB/Step1)
+##### 
