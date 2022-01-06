@@ -1,5 +1,5 @@
 # SQL-Innovative-Products
-Description
+💻 - Project to learn how to make SQL queries.
 
 ## Connect to the database
 Link : https://phpmyadmin.alwaysdata.com/ <br>
