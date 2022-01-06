@@ -12,4 +12,4 @@ HAVING COUNT(*) >= 7
 ```
 
 ### File
-* [request.sql](PartC/Step9/request.sql)
+* [request.sql](request.sql)

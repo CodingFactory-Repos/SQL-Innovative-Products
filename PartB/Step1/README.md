@@ -11,4 +11,4 @@ order by Nom ASC;
 ```
 
 ### File
-* [request.sql](PartB/Step1/request.sql)
+* [request.sql](request.sql)

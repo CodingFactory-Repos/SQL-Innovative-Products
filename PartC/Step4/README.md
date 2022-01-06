@@ -13,4 +13,4 @@ WHERE c.NSS = p.NSS AND p.Nbrev = b.Nbrev AND b.pays = 'USA' AND c.Nom NOT IN (S
 ```
 
 ### File
-* [request.sql](PartC/Step4/request.sql)
+* [request.sql](request.sql)

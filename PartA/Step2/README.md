@@ -36,4 +36,4 @@ INSERT INTO Proprietaire (Nbrev, NSS) VALUES (5, 925310067);
 ```
 
 ### File
-* [insert.sql](PartA/Step2/insert.sql)
+* [insert.sql](insert.sql)

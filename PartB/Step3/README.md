@@ -11,4 +11,4 @@ WHERE c.NSS = p.NSS and b.Nbrev = p.Nbrev
 ```
 
 ### File
-* [request.sql](PartB/Step3/request.sql)
+* [request.sql](request.sql)

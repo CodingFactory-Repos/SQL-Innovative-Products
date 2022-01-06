@@ -11,4 +11,4 @@ WHERE p.nProd = i.nProd AND p.categorie = 'cosmétique' AND p.prix >= 200
 ```
 
 ### File
-* [request.sql](PartC/Step1/request.sql)
+* [request.sql](request.sql)

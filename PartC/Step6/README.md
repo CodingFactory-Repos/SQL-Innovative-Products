@@ -12,4 +12,4 @@ IN (SELECT MAX(dateNaiss) FROM Chercheur)
 ```
 
 ### File
-* [request.sql](PartC/Step6/request.sql)
+* [request.sql](request.sql)

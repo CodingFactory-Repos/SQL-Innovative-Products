@@ -13,4 +13,4 @@ HAVING COUNT(prod.categorie = 'bricolage') = SUM(prod.categorie = 'bricolage')
 ```
 
 ### File
-* [request.sql](PartC/Step5/request.sql)
+* [request.sql](request.sql)

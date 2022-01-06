@@ -49,4 +49,4 @@ create table Proprietaire(
 ```
 
 ### File
-* [create_table.sql](PartA/Step2/create_table.sql)
+* [create_table.sql](create_table.sql)

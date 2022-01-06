@@ -11,4 +11,4 @@ WHERE c.Nom = 'Trouverien' and c.NSS = p.NSS AND p.Nbrev = b.Nbrev
 ```
 
 ### File
-* [request.sql](PartC/Step7/request.sql)
+* [request.sql](request.sql)

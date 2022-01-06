@@ -16,4 +16,4 @@ ORDER BY p.nomProd ASC;
 ```
 
 ### File
-* [request.sql](PartC/Step8/request.sql)
+* [request.sql](request.sql)

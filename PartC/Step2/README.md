@@ -12,4 +12,4 @@ AND (prod.categorie = 'décoration' OR prod.categorie = 'cosmétique')
 ```
 
 ### File
-* [request.sql](PartC/Step2/request.sql)
+* [request.sql](request.sql)

@@ -15,4 +15,4 @@ AND c.Nom IN (SELECT DISTINCT c.Nom
 ```
 
 ### File
-* [request.sql](PartC/Step3/request.sql)
+* [request.sql](request.sql)
