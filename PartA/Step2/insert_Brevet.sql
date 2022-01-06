@@ -1,5 +1,9 @@
-INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (1, 'Brevet1', '2020-11-05', 'Etats-Unis');
-INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (2, 'Brevet2', '2020-12-04', 'Belgique');
+INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (1, 'Brevet1', '2020-11-05', 'USA');
+INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (2, 'Aki', '2020-12-04', 'Portugais');
 INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (3, 'Brevet3', '2020-09-03', 'Norvège');
 INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (4, 'Brevet4', '2020-08-02', 'Maroc');
-INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (5, 'Brevet5', '2020-07-01', 'France');
+INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (5, 'Brevet5', '2000-07-20', 'France');
+INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (6, 'Pineapple', '2022-01-20', 'USA');
+INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (7, 'Amazonie', '1994-07-05', 'USA');
+INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (8, 'Raser', '2005-01-01', 'USA');
+INSERT INTO Brevet (Nbrev, intitule, date, pays) VALUES (9, 'Miitendo', '1889-09-23', 'Japon');

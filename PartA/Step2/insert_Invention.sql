@@ -1,5 +1,15 @@
 INSERT INTO Invention (Nbrev, Nprod) VALUES (1, 3);
-INSERT INTO Invention (Nbrev, Nprod) VALUES (2, 5);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (1, 4);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (2, 8);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (2, 9);
 INSERT INTO Invention (Nbrev, Nprod) VALUES (3, 1);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (3, 6);
 INSERT INTO Invention (Nbrev, Nprod) VALUES (4, 2);
-INSERT INTO Invention (Nbrev, Nprod) VALUES (5, 4);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (5, 5);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (5, 16);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (6, 10);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (6, 11);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (6, 12);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (7, 13);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (8, 14);
+INSERT INTO Invention (Nbrev, Nprod) VALUES (9, 15);
